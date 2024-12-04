@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "system": [
+            "fzf",
+            "firefox",
+            "starship",
+            "stow",
+            "man",
+            "code",
+            "wezterm",
+            "neovim",
+            "extra/wl-clipboard",
+            "signal-desktop",
+            "wmctrl",
+            "gpaste"
+        ],
+        "yubikey": [
+            "yubikey-manager",
+            "gnupg",
+            "pcsclite",
+            "ccid",
+            "yubikey-personalization"
+        ],
+        "languages": [
+            "cargo",
+            "go"
+        ],
+        "aur": [
+            {
+                "url": "https://aur.archlinux.org/ulauncher.git",
+                "name": "ulauncher"
+            }
+        ]
+    }
+}
